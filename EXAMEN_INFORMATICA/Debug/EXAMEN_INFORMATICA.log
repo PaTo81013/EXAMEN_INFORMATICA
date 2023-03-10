@@ -1,0 +1,19 @@
+﻿  EXAMEN_INFORMATICA.cpp
+C:\Users\patom\Downloads\EXAMEN_INFORMATICA (1)\EXAMEN_INFORMATICA\EXAMEN_INFORMATICA.cpp(34,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\patom\Downloads\EXAMEN_INFORMATICA (1)\EXAMEN_INFORMATICA\EXAMEN_INFORMATICA.cpp(153,74): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\patom\Downloads\EXAMEN_INFORMATICA (1)\EXAMEN_INFORMATICA\EXAMEN_INFORMATICA.cpp(153,54): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\patom\Downloads\EXAMEN_INFORMATICA (1)\EXAMEN_INFORMATICA\EXAMEN_INFORMATICA.cpp(153,34): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\patom\Downloads\EXAMEN_INFORMATICA (1)\EXAMEN_INFORMATICA\EXAMEN_INFORMATICA.cpp(153,20): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+  Piramide.cpp
+C:\Users\patom\Downloads\EXAMEN_INFORMATICA (1)\EXAMEN_INFORMATICA\Piramide.cpp(44,27): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\patom\Downloads\EXAMEN_INFORMATICA (1)\EXAMEN_INFORMATICA\Piramide.cpp(44,19): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\patom\Downloads\EXAMEN_INFORMATICA (1)\EXAMEN_INFORMATICA\Piramide.cpp(44,11): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\patom\Downloads\EXAMEN_INFORMATICA (1)\EXAMEN_INFORMATICA\Piramide.cpp(106,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\patom\Downloads\EXAMEN_INFORMATICA (1)\EXAMEN_INFORMATICA\Piramide.cpp(108,14): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\patom\Downloads\EXAMEN_INFORMATICA (1)\EXAMEN_INFORMATICA\Piramide.cpp(110,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\patom\Downloads\EXAMEN_INFORMATICA (1)\EXAMEN_INFORMATICA\Piramide.cpp(112,60): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\patom\Downloads\EXAMEN_INFORMATICA (1)\EXAMEN_INFORMATICA\Piramide.cpp(114,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\patom\Downloads\EXAMEN_INFORMATICA (1)\EXAMEN_INFORMATICA\Piramide.cpp(119,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\patom\Downloads\EXAMEN_INFORMATICA (1)\EXAMEN_INFORMATICA\Piramide.cpp(124,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  EXAMEN_INFORMATICA.vcxproj -> C:\Users\patom\Downloads\EXAMEN_INFORMATICA (1)\EXAMEN_INFORMATICA\Debug\EXAMEN_INFORMATICA.exe
